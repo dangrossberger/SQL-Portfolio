@@ -1,0 +1,11 @@
+vendor_id,vendor_name,vend_spend,Spend_Tier,Diversity_flag
+8,Vendor_008,62752.47,VIP,MBE/EDGE
+51,Vendor_051,53756.53,VIP,MBE/EDGE
+57,Vendor_057,52963.85,VIP,Standard
+16,Vendor_016,52302.41,VIP,Standard
+52,Vendor_052,47877.51,Gold,MBE/EDGE
+47,Vendor_047,46433.32,Gold,Standard
+58,Vendor_058,45687.9,Gold,Standard
+26,Vendor_026,45253.89,Gold,MBE/EDGE
+2,Vendor_002,44883.2,Gold,MBE/EDGE
+4,Vendor_004,42874.44,Gold,Standard
